@@ -17,4 +17,10 @@ download ... skip
 node-tar: 148903ms
 tar-fs: 2323ms
 ext-tar: 3854ms
+
+$ node index.js 
+download ... skip
+node-tar: 144275ms
+tar-fs: 3329ms
+ext-tar: 3088ms
 ```
